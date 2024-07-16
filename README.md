@@ -1,4 +1,4 @@
-# # CBIT Institute Professional Body Systems
+## CBIT Institute Professional Body Systems
 
   This project focuses on the professional body systems, such as clubs, present in the CBIT Institute.
   It is a console interactive application that emphasizes programming skills and the practical application of the C programming language.
@@ -11,7 +11,7 @@ Interactive console-based interface
   Practical application of C programming concepts
   Hands-on practice to improve coding skills
 
-##Getting Started
+## Getting Started
 Follow the instructions below to get started with the project.
   
 **  Prerequisites**
@@ -20,10 +20,10 @@ Follow the instructions below to get started with the project.
   C compiler (e.g., GCC)
   Basic knowledge of C programming
   
-**  Installation**
+## Installation
 
 
-  Clone the repository: [here]().
+  Clone the repository: [here](https://github.com/Rakesh-konne/Chaitanya-Bharathi-professional-body-system-CBPS-.git).
   Navigate to the project directory: cd cbit-professional-body-systems
   Compile the source code: gcc -o cbit_system main.c
   Run the application:  ./cbit_system
